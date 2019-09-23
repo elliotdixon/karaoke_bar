@@ -1,7 +1,7 @@
 require("minitest/autorun")
 require("minitest/rg")
-require_relative("../guest.rb")
-require_relative("../song.rb")
+require_relative("../Guest.rb")
+require_relative("../Song.rb")
 
 class GuestTest < MiniTest::Test
 
